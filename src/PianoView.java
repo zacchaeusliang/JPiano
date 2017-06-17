@@ -17,7 +17,7 @@ import org.jfugue.player.Player;
 
 import javafx.event.ActionEvent;
 
-public class PianoView extends Pane {
+public class  PianoView extends Pane {
 
 
     public PianoView() {

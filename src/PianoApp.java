@@ -13,7 +13,7 @@ public class PianoApp extends Application {
         primaryStage.setResizable(true);
         primaryStage.setScene(new Scene(pView, 285, 205));
         primaryStage.show();
-
+//lets see if it picks up this
 
 
     }
